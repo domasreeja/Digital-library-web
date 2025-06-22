@@ -13,9 +13,9 @@ const messageLog: SmsMessage[] = []
 
 // Twilio configuration - these should be set in environment variables
 const TWILIO_CONFIG = {
-  accountSid: process.env.TWILIO_ACCOUNT_SID || "ACe4aed446eb1b28891588944e0ac577d1",
-  authToken: process.env.TWILIO_AUTH_TOKEN || "400693a3c7e5a7eda98dde008b6c3658",
-  fromNumber: process.env.TWILIO_FROM_NUMBER || "+14407372691",
+  accountSid: process.env.TWILIO_ACCOUNT_SID || "your_account_sid",
+  authToken: process.env.TWILIO_AUTH_TOKEN || "your_auth_token",
+  fromNumber: process.env.TWILIO_FROM_NUMBER || "your_twilio_from_number",
 }
 
 // Phone number formatting and validation
