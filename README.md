@@ -160,4 +160,5 @@ Add, edit, or remove books
 Approve or reject reservations
 Process barcode-based book transactions
 Send overdue reminders manually or automatically
-
+ # You can check the here how it looks
+![Image Alt](https://github.com/domasreeja/Digital-library-web/blob/ea5895c7180ad525fdafe1a3e3fd43674e7cf852/Home_page.png)
