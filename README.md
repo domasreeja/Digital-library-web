@@ -161,7 +161,5 @@ Approve or reject reservations
 Process barcode-based book transactions
 Send overdue reminders manually or automatically
 
- # You can check the here how it looks
-![Home_page](https://github.com/user-attachments/assets/ce317f94-d170-4e43-ab6d-f494cb28ee8d)
-![registration](https://github.com/user-attachments/assets/8ec04e2c-e184-4417-ae2f-055c77fc315b)
+ 
 
