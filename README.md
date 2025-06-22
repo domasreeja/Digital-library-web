@@ -161,4 +161,3 @@ Approve or reject reservations
 Process barcode-based book transactions
 Send overdue reminders manually or automatically
 
-## 🖼️ Screenshots & Demo
