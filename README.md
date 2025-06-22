@@ -148,8 +148,10 @@ npm start
 Register or log in
 Browse or search the catalog
 Reserve books (with librarian approval)
+
 Issue/Return via barcode scanner
 Receive SMS/email reminders for due dates
+
 
 View AI-generated book recommendations
 ## Librarian Flow
